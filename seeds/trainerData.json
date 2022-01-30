@@ -1,0 +1,29 @@
+[
+    {
+       
+        "full_name": "Sal Amander",
+        "email": "sal@hotmail.com",
+        "password": "password"
+    },
+    {
+        "full_name": "Chris Stallcup",
+        "email": "Chris@gmail.com",
+        "password": "password1"
+    },
+    {
+        "full_name": "Bonnie Reed",
+        "email": "Boonie@gmail.com",
+        "password": "password2"
+    },
+    {    
+        "full_name": "Lernantino",
+        "email": "lernantino@gmail.com",
+        "password": "password12345"
+    },
+    {
+        
+        "full_name": "Amiko",
+        "email": "amiko2k20@aol.com",
+        "password": "password12345"
+    }
+]

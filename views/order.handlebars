@@ -1,0 +1,15 @@
+{{#each orders as |order| }}
+<div class="order-card card" style="width: 18rem">
+    <img class="card-img-top" src="item-sprite" alt="Card image cap" />
+    <div class="card-body">
+        <h5 id="item-name" class="card-title">Order ID:{{order_id}}</h5>
+        <p id="item-description" class="card-text">
+            Order Date:{{order_date}}
+        </p>
+        <p>{{order_status}}</p>
+        <p>{{order_quantity}}</p>
+        <a href="" id="item-button" class="btn btn-primary"> Delete </a>
+        <a href="" id="item-button" class="btn btn-primary"> Checkout </a>
+    </div>
+</div>
+{{/each}}

@@ -1,0 +1,78 @@
+html {
+  background-image: linear-gradient(to bottom right, #fee792, #fffeef, #80cce3);
+}
+body {
+  font-family: 'Exo', sans-serif;
+  background-image: linear-gradient(to bottom right, #fee792, #fffeef, #80cce3);
+}
+footer {
+  color: #b3a125;
+  background-color: #005c96;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.cardMargin {
+  margin: 20px;
+}
+.dropdown {
+  height: 2em;
+  width: 2em;
+}
+.dropdown2 {
+  height: 2em;
+  width: 2em;
+  padding-right: 1%;
+}
+li {
+  list-style-type: none;
+}
+
+.nav-cont {
+  background-color: #005c96;
+}
+.featureCap {
+  color: #005c96;
+}
+
+.greeting {
+  padding: 50px;
+}
+
+.featureText {
+  padding: 50px;
+}
+
+.pokeLogo {
+  height: 80px;
+  width: 160px;
+}
+
+.no-button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  color: #1b89bc;
+  text-decoration: none;
+  font-size: 100%;
+}
+
+.no-button:hover {
+  color: #065b83;
+  text-decoration: underline;
+}
+.card-img-top {
+  height: 125px;
+  width: 125px;
+}
+
+.hidden-form {
+  visibility: hidden;
+}
+
+.input-group-text {
+  color: #005c96;
+}
